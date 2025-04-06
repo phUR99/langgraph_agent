@@ -175,3 +175,4 @@ cython_debug/
 
 # private file
 .env
+chroma_db/
